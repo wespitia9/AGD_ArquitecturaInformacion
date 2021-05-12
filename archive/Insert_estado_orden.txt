@@ -1,0 +1,8 @@
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('delivered');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('invoiced');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('shipped');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('processing');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('unavailable');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('canceled');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('created');
+INSERT INTO estado_orden (STATUS_DESCRIPTION) VALUES ('approved');
