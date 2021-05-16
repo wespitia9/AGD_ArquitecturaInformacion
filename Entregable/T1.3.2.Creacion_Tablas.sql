@@ -74,7 +74,7 @@ drop table VENDEDOR;
 /* Table: CATEGORIA                                             */
 /*==============================================================*/
 create table CATEGORIA (
-   CATEGORY_ID          SERIAL not null,
+   CATEGORY_ID          not null,
    CATEGORY_NAME        VARCHAR(100)         not null,
    constraint PK_CATEGORIA primary key (CATEGORY_ID)
 );
